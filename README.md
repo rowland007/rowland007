@@ -8,21 +8,23 @@ I still code occasionally, but it is very limited and mostly small scripts or ut
 
 If you'd like to know more about me, please checkout [randyrowland.me](https://randyrowland.me) or something below!
 
-[![](https://img.shields.io/badge/-rowland007@gmail.com-gray?style=flat&logo=Gmail)](mailto:rowland007+githubprofile@gmail.com) 
-[![](https://img.shields.io/badge/-randall%96rowland%96jr-gray?style=flat&logo=linkedin)](https://www.linkedin.com/in/randall-rowland-jr) 
-[![](https://img.shields.io/badge/-rowland007-2bbc8a?style=flat&logo=github)](https://github.com/rowland007) 
-[![](https://img.shields.io/badge/-RandarXJ7-gray?style=flat&logo=keybase)](https://keybase.io/randarxj7/) 
-[![](https://img.shields.io/badge/-RandarXJ7-gray?style=flat&logo=twitter)](https://twitter.com/RandarXJ7) 
-[![](https://img.shields.io/badge/-rowland007-gray?style=flat&logo=reddit)](https://www.reddit.com/user/rowland007) 
-[![](https://img.shields.io/badge/-randyrowland.me-gray?style=flat&logo=googleearth)](https://randyrowland.me) 
+[![](https://img.shields.io/badge/-rowland007@gmail.com-gray?style=social&logo=Gmail)](mailto:rowland007+githubprofile@gmail.com) 
+[![](https://img.shields.io/badge/-randall--rowland--jr-gray?style=social&logo=linkedin)](https://www.linkedin.com/in/randall-rowland-jr) 
+[![](https://img.shields.io/badge/-rowland007-gray?style=social&logo=github)](https://github.com/rowland007) 
+[![](https://img.shields.io/badge/-RandarXJ7-gray?style=social&logo=keybase)](https://keybase.io/randarxj7/) 
+[![](https://img.shields.io/badge/-RandarXJ7-gray?style=social&logo=twitter)](https://twitter.com/RandarXJ7) 
+[![](https://img.shields.io/badge/-rowland007-gray?style=social&logo=reddit)](https://www.reddit.com/user/rowland007) 
+[![](https://img.shields.io/badge/-randyrowland.me-gray?style=social&logo=google-chrome)](https://randyrowland.me) 
 
+---
 
 ## &#x270d; Blog & Writing
 
 I don't write much but when I do, it's on my [website](https://randyrowland.me/post/).  
 
-
+---
 ## 🔧 Technologies, Tools, & Languages
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&color=2bbc8a)
@@ -57,8 +59,19 @@ I don't write much but when I do, it's on my [website](https://randyrowland.me/p
 ![](https://img.shields.io/badge/Platform-Netlify-2bbc8a?style=flat&logo=netlify)
 ![](https://img.shields.io/badge/Platform-Proxmox-2bbc8a?style=flat&logo=proxmox)
 ![](https://img.shields.io/badge/Platform-Trello-2bbc8a?style=flat&logo=trello)
+</br>
+![](https://img.shields.io/badge/Productivity-Office365-2bbc8a?style=flat&logo=microsoftoffice)
+![](https://img.shields.io/badge/Productivity-Word-2bbc8a?style=flat&logo=microsoftword)
+![](https://img.shields.io/badge/Productivity-PowerPoint-2bbc8a?style=flat&logo=microsoftpowerpoint)
+![](https://img.shields.io/badge/Productivity-Excel-2bbc8a?style=flat&logo=microsoftexcel)
+![](https://img.shields.io/badge/Productivity-OneDrive-2bbc8a?style=flat&logo=microsoftonedrive)
+![](https://img.shields.io/badge/Productivity-SharePoint-2bbc8a?style=flat&logo=microsoftsharepoint)
+![](https://img.shields.io/badge/Productivity-Visio-2bbc8a?style=flat&logo=microsoftvisio)
+![](https://img.shields.io/badge/Productivity-Teams-2bbc8a?style=flat&logo=microsoftteams)
+![](https://img.shields.io/badge/Productivity-Outlook-2bbc8a?style=flat&logo=microsoftoutlook)
+![](https://img.shields.io/badge/Productivity-OneNote-2bbc8a?style=flat&logo=microsoftonenote)
 
-
+---
 ## &#x1f4c8; GitHub Stats
 <!--
 <a href="https://github.com/rowland007/rowland007">
@@ -75,13 +88,17 @@ I don't write much but when I do, it's on my [website](https://randyrowland.me/p
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rowland007&repo=Cyber-Playbook&theme=cobalt" />
 </a>
 
-[![](https://img.shields.io/badge/GitHub%20Pages-View%20It-2bbc8a?style=flat&logo=githubpages)](https://rowland007.github.io/Cyber-Playbook/)
+[![](https://img.shields.io/badge/GitHub%20Pages-View%20It-2bbc8a?style=for-the-badge&logo=githubpages)](https://rowland007.github.io/Cyber-Playbook/)
+
 
 <a href="https://github.com/rowland007/Contributing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rowland007&repo=Contributing&theme=cobalt" /> 
 </a>
 
-[![](https://img.shields.io/badge/GitHub%20Pages-View%20It-2bbc8a?style=flat&logo=githubpages)](https://rowland007.github.io/Contributing/)
+[![](https://img.shields.io/badge/GitHub%20Pages-View%20It-2bbc8a?style=for-the-badge&logo=githubpages)](https://rowland007.github.io/Contributing/)
+
+
+---
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
