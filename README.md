@@ -99,9 +99,9 @@ I don't write much but when I do, it's on my [website](https://randyrowland.me/p
 [![](https://img.shields.io/badge/GitHub%20Pages-View%20It-2bbc8a?style=for-the-badge&logo=githubpages)](https://rowland007.github.io/Contributing/)
 
 
-```
-I am <a rel="me" href="https://infosec.exchange/@CyberRandy">CyberRandy</a> on Infosec Exchange
-```
+<!--
+<a rel="me" href="https://infosec.exchange/@CyberRandy">Mastodon</a>
+-->
 ---
 
 <!-- Resources -->
