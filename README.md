@@ -12,7 +12,6 @@ If you'd like to know more about me, please checkout [randyrowland.me](https://r
 [![](https://img.shields.io/badge/-randall--rowland--jr-gray?style=social&logo=linkedin)](https://www.linkedin.com/in/randall-rowland-jr) 
 [![](https://img.shields.io/badge/-rowland007-gray?style=social&logo=github)](https://github.com/rowland007) 
 [![](https://img.shields.io/badge/-RandarXJ7-gray?style=social&logo=keybase)](https://keybase.io/randarxj7/) 
-[![](https://img.shields.io/badge/-RandarXJ7-gray?style=social&logo=twitter)](https://twitter.com/RandarXJ7) 
 [![](https://img.shields.io/badge/-rowland007-gray?style=social&logo=reddit)](https://www.reddit.com/user/rowland007) 
 [![](https://img.shields.io/badge/-randyrowland.me-gray?style=social&logo=google-chrome)](https://randyrowland.me)
 [![badge](https://img.shields.io/badge/-CyberRandy-gray?style=social&logo=mastodon)](https://infosec.exchange/@CyberRandy)
